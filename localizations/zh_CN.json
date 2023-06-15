@@ -958,7 +958,7 @@
     "Process images in a directory on the same machine where the server is running.": "处理服务器主机上某一目录里的图像",
     "Progressbar/preview update period, in milliseconds": "进度条/预览更新周期(毫秒)",
     "Prompt": "提示词",
-    "Prompt (press Ctrl+Enter or Alt+Enter to generate)": "填写正面提示词（按 Ctrl+Enter 或 Alt+Enter 生成）\nPrompt \n 注：www.aihua.site和aihua.site是不同的网站，前者是stable diffusion，后者是Naifu",
+    "Prompt (press Ctrl+Enter or Alt+Enter to generate)": "填写正面提示词（按 Ctrl+Enter 或 Alt+Enter 生成）\n 云端部署项目作者：Loading。永久免费，请勿倒卖！群 632428790",
     "Prompt S/R": "提示词搜索/替换",
     "Prompt Travel": "提示词变迁",
     "Prompt for tokenization": "给词元化准备的提示词",
